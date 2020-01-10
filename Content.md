@@ -36,8 +36,10 @@
 ## 第六章：[PyTorch之深度卷积对抗生成网络](https://github.com/fendouai/PyTorchDocs/blob/master/SixthSection/Dcgan.md)
 ## 第七章：[PyTorch之强化学习（DQN）教程](https://github.com/fendouai/PyTorchDocs/blob/master/SeventhSection/ReinforcementLearning.md)
 
-
-
+## 第八章：在生产中部署PyTorch模型
+### 1.[通过带Flask的REST API在Python中部署PyTorch](https://github.com/fendouai/PyTorchDocs/blob/master/EigthSection/Deploying%20PyTorch%20in%20Python%20via%20a%20REST%20APIwith%20Flask.md)
+### 2.[TorchScript简介](https://github.com/fendouai/PyTorchDocs/blob/master/EigthSection/torchScript.md)
+### 3.[在C++中加载TorchScript模型](https://github.com/fendouai/PyTorchDocs/blob/master/EigthSection/torchScript_in_C%2B%2B.md)
 
 磐创AI 聊天机器人，智能客服：
 
@@ -50,4 +52,4 @@
 魔图互联 知识图谱推荐系统：
 
 [http://motuhulian.com](http://motuhulian.com)
->>>>>>> 9c6c0892e2f98027a9e85a903027e25b2b72f835
+
